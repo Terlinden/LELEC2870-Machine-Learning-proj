@@ -1,0 +1,4 @@
+42930251.53197286 is RMSE for knn, best params = {'n_neighbors': 10, 'weights': 'uniform'}
+45226536.12138069 is RMSE for lin
+55179074.108349755 is RMSE for mlp, best params = {'activation': 'identity', 'alpha': 0.001, 'hidden_layer_sizes': (100, 100, 100)}
+52115881.33426448 is RMSE for svr, best params = {'C': 1000000.0, 'kernel': 'poly'}
